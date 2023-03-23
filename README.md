@@ -6,6 +6,11 @@ Welcome to Submission 4 Pandas
 
 ## PyCity
 
+
+Conclussions 
+  More people seem to go to govenrment schools than independent schools.  
+  The students of govenrment schools on average seem to have a lower passing of both units.
+
 Attacehd are the activities for this week's cubmission working with Pandas to achieve a range of objectives. 
 
 # Objective 1 --> Local Gov Summary
@@ -30,7 +35,11 @@ This was an interesting test, we found that schools with lower budgets per stude
 # Objective 7 --> Scores by School Size
 The schoolswith the lowest amount of students seem to outperform the schools with much more students.
 # Objective 9 --> Scores by School Type
-More people seem to go to govenrment schools than independent schools and they students of govenrment schools on average seem to have a lower passing of both units.
+
+
+Conclussions 
+More people seem to go to govenrment schools than independent schools.  
+The students of govenrment schools on average seem to have a lower passing of both units.
 
 The Pandas code attached looks and merges the two different datasets.
 The Pandas code attached looks and merges the two different datasets.
